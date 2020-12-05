@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails API Project: Record Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [x] Back-end: Ruby on Rails
+- [x] Front-end: Vue.js
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- from [Web-Crunch](https://web-crunch.com/posts/ruby-on-rails-api-vue-js)
