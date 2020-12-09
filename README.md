@@ -1,11 +1,11 @@
 # Record Store (Ruby on Rails API and Vue.js)
 
-	- [x] Ruby 2.7.2
-	- [x] Rails 6.0.3.4	
-	- [x] Gem bcrypt	
-	- [x] Gem rack-cors	
-	- [x] Gem redis	
-	- [x] Gem jwt-sessions
+- [x] Ruby 2.7.2
+- [x] Rails 6.0.3.4	
+- [x] Gem bcrypt	
+- [x] Gem rack-cors	
+- [x] Gem redis	
+- [x] Gem jwt-sessions
 	
 |  Shortcuts |
 | :--------- |
