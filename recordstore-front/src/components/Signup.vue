@@ -23,6 +23,7 @@
 
         <div class="my-4"><router-link to="/" class="link-grey">Sign In</router-link></div>
       </form>
+      <p>hi</p>
     </div>
   </div>
 </template>
