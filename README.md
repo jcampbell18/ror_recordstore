@@ -9,8 +9,8 @@
 	
 |  Shortcuts |
 | :--------- |
-| Back-end Development |
-| Front-end Development |
+| [Back-end Development (Ruby on Rails)](https://github.com/jcampbell18/ror_recordstore/blob/master/README.md#back-end-development) |
+| [Front-end Development (Vue.js)](https://github.com/jcampbell18/ror_recordstore/blob/master/README.md#front-end-development) |
 	
 ## Back-end Development
 	
